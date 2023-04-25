@@ -29,4 +29,5 @@ public class Departamento {
         sueldoTotal+=Empleado.getSueldo();
     }
 
+
 }
